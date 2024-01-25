@@ -1,5 +1,3 @@
-# arduino_8bit_songs
-My favourite arduino 8 bit musics
 # Arduino 8-Bit Music Generator
 
 ## Overview
@@ -18,6 +16,10 @@ Connect a piezo buzzer or a speaker to the designated digital pin on your Arduin
 
 The provided example code plays a 440 Hz tone (A4 note) for 1 second and then stops the tone for 0.5 seconds. Feel free to modify the code to generate different melodies or frequencies.
 
+### Live Example
+
+Check out the live example on [Wokwi](https://wokwi.com/projects/385285817086047233) to see the project in action!
+
 ## Contributing
 
 If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request.
@@ -28,4 +30,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-- [Arduino](https://www.arduino.cc/) for the
+- [Arduino](https://www.arduino.cc/) for their awesome platform.
+
+## Author
+
+[MISTER NEGATIVE]
